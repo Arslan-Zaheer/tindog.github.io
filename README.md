@@ -1,1 +1,1 @@
-TinDog Starting Files
+TinDog Responsive Website - (Front End)
